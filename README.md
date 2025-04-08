@@ -2,7 +2,7 @@
 
 👀 I’m interested in exploring new technologies, coding, and creative writing.
 
-🌱 I’m currently learning web development and data science.
+🌱 I’m currently learning web development and ui/ux design.
 
 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
 
